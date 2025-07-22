@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+How's it going?
+I'm a web developer looking for an opportunity in the world of programming.
+- 🔭 I’m currently working on a personal project: "El Taller".
+- 🌱 I’m currently learning to improve my skills as a Web Developer (HTML5, CSS3, JS, React, EJS, NodeJS, Tailwind CSS, MySQL, Web Accessibility, UX/UI...).
+- 👯 I’m looking to collaborate on a creative project.
+- 🤔 I’m looking for help with any of my skills; I love learning new things.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I don't have a rubber duck to talk to, but I do have a rubber chicken.
 <!--
 **MelsCrest/MelsCrest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
